@@ -9,7 +9,7 @@
 
 ---
 
-<img width="1920" height="1017" alt="image" src="https://github.com/user-attachments/assets/d4f3e1e7-f460-47bc-9f58-a37a6bdca2cf" />
+<img width="1920" height="450" alt="image" src="https://cdn.modrinth.com/data/VDP0TPBa/images/733a0c85a7317f860299ae5c715fdd1c9ac87bc2.png" />
 
 
 ## Использование
@@ -27,6 +27,6 @@
     - **Голограмма**: Применять фильтр, Сущности и жидкости.
 4. HUD-панель в правом нижнем углу показывает только то, что ещё нужно собрать (всего / стаки / шалкеры). Страницы листаются клавишами **`Page Up`** / **`Page Down`** (переназначаются в настройках управления).
 
-<img width="692" height="292" alt="image" src="https://github.com/user-attachments/assets/978a20f3-be67-43c8-b1c5-062a16ffb737" />
+<img width="576" height="287" alt="image" src="https://cdn.modrinth.com/data/VDP0TPBa/images/a097b9f6b34277c725787bad3202f843e7cdc9ef.png" />
 
-<img width="610" height="313" alt="image" src="https://github.com/user-attachments/assets/d3b299db-5f05-4cfa-8e58-235c72ee61fd" />
+<img width="537" height="314" alt="image" src="https://cdn.modrinth.com/data/VDP0TPBa/images/212c20e30d80ff36467ccb1cb0f2b46d19bb5576.png" />
