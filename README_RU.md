@@ -9,7 +9,7 @@
 
 ---
 
-<img width="1920" height="450" alt="image" src="https://cdn.modrinth.com/data/VDP0TPBa/images/733a0c85a7317f860299ae5c715fdd1c9ac87bc2.png" />
+<img width="1920" height="1028" alt="image" src="https://cdn.modrinth.com/data/VDP0TPBa/images/733a0c85a7317f860299ae5c715fdd1c9ac87bc2.png" />
 
 
 ## Использование
