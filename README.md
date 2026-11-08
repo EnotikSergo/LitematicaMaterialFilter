@@ -8,7 +8,7 @@ Allows filtering the material list by query and displaying only the necessary bl
 
 ---
 
-<img width="1920" height="1017" alt="image" src="https://github.com/user-attachments/assets/ed9a828b-8f63-47c0-9816-7df50431e412" />
+<img width="1920" height="450" alt="image" src="https://cdn.modrinth.com/data/VDP0TPBa/images/733a0c85a7317f860299ae5c715fdd1c9ac87bc2.png" />
 
 
 ## Usage
@@ -26,6 +26,6 @@ Allows filtering the material list by query and displaying only the necessary bl
     - **Hologram**: Apply filter, Entities and fluids.
 4. The HUD panel in the bottom right corner shows only what still has to be collected (total / stacks / shulkers). Pages are switched with **`Page Up`** / **`Page Down`** (rebindable in Controls).
 
-<img width="576" height="287" alt="image" src="https://github.com/user-attachments/assets/8f1ddbc3-0ec1-4ee5-a74c-9be35072aeed" />
+<img width="576" height="287" alt="image" src="https://cdn.modrinth.com/data/VDP0TPBa/images/a097b9f6b34277c725787bad3202f843e7cdc9ef.png" />
 
-<img width="537" height="314" alt="image" src="https://github.com/user-attachments/assets/1e4848a1-7e18-4471-a6a3-f0b470240458" />
+<img width="537" height="314" alt="image" src="https://cdn.modrinth.com/data/VDP0TPBa/images/212c20e30d80ff36467ccb1cb0f2b46d19bb5576.png" />
